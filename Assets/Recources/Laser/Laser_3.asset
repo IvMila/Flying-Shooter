@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dcdde5eb1041411fa9a9280e93eeb0a, type: 3}
+  m_Name: Laser_3
+  m_EditorClassIdentifier: 
+  _indexLaser: 3
+  _damageLaser: 50
+  _prefabLaser: {fileID: 1831610954474159716, guid: 877ee2cbfa52d4d1bb71835bbdf1e80b, type: 3}

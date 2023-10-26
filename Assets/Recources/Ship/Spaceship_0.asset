@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3287c93aa1d2643a298b329ddc0f31ac, type: 3}
+  m_Name: Spaceship_0
+  m_EditorClassIdentifier: 
+  _spriteSpaceship: {fileID: 7571793710302718257, guid: 18556aba90d864a8e9dd149a0c37bd20, type: 3}
+  _cost: 0
+  _info: Your first ship.
+  _nameShip: Spaceship 0
+  _index: 0
+  LaserScriptableObjects: {fileID: 11400000, guid: 15210685454474ea38af1adcd53749b6, type: 2}

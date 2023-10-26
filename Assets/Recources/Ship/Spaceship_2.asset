@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3287c93aa1d2643a298b329ddc0f31ac, type: 3}
+  m_Name: Spaceship_2
+  m_EditorClassIdentifier: 
+  _spriteSpaceship: {fileID: 2733197190764417887, guid: 97fa9c1043cd24d81ad2cdd81f84b6c8, type: 3}
+  _cost: 50
+  _info: This spaceship has 10% more powerful missiles, so you can destroy the enemy
+    ship faster.
+  _nameShip: Spaceship 2
+  _index: 2
+  LaserScriptableObjects: {fileID: 11400000, guid: b56763cc9b06b4800bd02731299766ad, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3287c93aa1d2643a298b329ddc0f31ac, type: 3}
+  m_Name: Spaceship_4
+  m_EditorClassIdentifier: 
+  _spriteSpaceship: {fileID: -1667035136101972334, guid: edd06dfb9e7904f55a2a079d0310559c, type: 3}
+  _cost: 300
+  _info: The coolest spaceship.
+  _nameShip: Spaceship 4
+  _index: 4
+  LaserScriptableObjects: {fileID: 11400000, guid: e85fbe9d199ce4453930d0c8723bb4f4, type: 2}
